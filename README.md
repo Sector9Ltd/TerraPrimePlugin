@@ -1,3 +1,5 @@
+> **Retired.** This is the old UE 5.4 landscape plugin. Sector 9's TerraPrime is a new, separate app: https://sector9.ltd/terraprime
+
 # TerraPrime :earth_americas:
 
 **An Unreal Engine 5.4+ AutoMaterial & PCG Template Plugin**
